@@ -1,35 +1,35 @@
 <div align="center">
   <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!%20👋&fontSize=50&fontAlignY=38&descAlignY=51&descAlign=62" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Workspace!%20🚀&fontSize=45&fontAlignY=38&descAlignY=51&descAlign=62" />
 
-<h1 align="center">I'm Furkan Ertürk</h1>
-<p align="center">
-  <i>Transforming ideas into elegant, functional, and scalable applications.</i>
-</p>
-
-<div align="center">
-  <a href="mailto:[Your_Email]"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="[Your_LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="https://furkanerturk.me"><img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square&logo=google-chrome" /></a>
+  <!-- Cool Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Turning+coffee+into+code...;Building+scalable+applications;AI+%26+Rapid+Prototyping+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
 
-### 🚀 A Little About Me
+<div align="center">
+  <a href="mailto:[Your_Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[Your_LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://furkanerturk.me"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" /></a>
+</div>
 
-I am a software developer with a passion for building seamless web and mobile experiences. Whether it's designing a new UI, structuring a database, or experimenting with AI tools, I love the process of creation.
+<br />
 
-- 🔭 **Currently Building:** **SoulEcho** (Social Platform), **ValoMatch** (Matchmaking App), and **FilmolojiWeb** (Streaming Clone).
-- 🌱 **Currently Exploring:** AI-assisted development, Rapid Prototyping, and Vibe Coding.
-- 💡 **Philosophy:** Write clean code, keep learning, and build things that matter.
+### ⚡ Quick Bytes About Me
+
+- 🔭 **Cooking up:** **SoulEcho** (Social), **ValoMatch** (Matchmaking), and **FilmolojiWeb** (Streaming).
+- 🌱 **Leveling up in:** AI-assisted development (Vibe Coding) & Prompt Engineering.
+- 🐛 **Superpower:** Turning a single bug into three new features.
+- ☕ **Fuel:** 90% Caffeine, 10% StackOverflow.
 
 ---
 
-### 💻 My Toolkit
+### 🧰 My Developer Inventory
 
 <div align="center">
-  <!-- Beautiful, unified animated icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,php,flutter,postgres,firebase,supabase,vscode,androidstudio&perline=9" />
   </a>
@@ -37,10 +37,25 @@ I am a software developer with a passion for building seamless web and mobile ex
 
 ---
 
-### 📊 GitHub Activity
+### 🎲 The Fun Section (Stats & Jokes)
 
 <div align="center">
-  <!-- Sleek, dark-themed GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Dynamic Programming Joke that changes automatically -->
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sxwcxz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Profile Visitors Counter -->
+  <p>People who got lost and ended up here:</p>
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/bg.svg" alt="Visitor Count" />
 </div>
