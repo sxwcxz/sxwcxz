@@ -37,25 +37,31 @@
 
 ---
 
-### 🎲 The Fun Section (Stats & Jokes)
+### 📊 GitHub Metrics & Activity
 
 <div align="center">
-  <!-- Dynamic Programming Joke that changes automatically -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+  <!-- Base Metrics & Language Usage -->
+  <img src="https://metrics.lecoq.io/sxwcxz?theme=tokyonight&plugin_languages=yes&plugin_languages_details=bytes-size,percentage" alt="Metrics" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Isometric Calendar (3D Commit Grid) -->
+  <img src="https://metrics.lecoq.io/sxwcxz?theme=tokyonight&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Isometric Calendar" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Coding Habits (Time of day, commit frequency) -->
+  <img src="https://metrics.lecoq.io/sxwcxz?theme=tokyonight&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_days=14&plugin_habits_facts=yes" alt="Coding Habits" />
 </div>
 
 <br />
 
 <div align="center">
   <!-- Profile Visitors Counter -->
-  <p>People who got lost and ended up here:</p>
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/bg.svg" alt="Visitor Count" />
+  <p><i>People who got lost and ended up here:</i></p>
+  <img src="https://profile-counter.glitch.me/sxwcxz/bg.svg" alt="Visitor Count" />
 </div>
