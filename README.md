@@ -1,65 +1,46 @@
-<h1 align="center">Merhaba! Ben Furkan Ertürk 👋</h1>
+<div align="center">
+  <!-- Dynamic Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!%20👋&fontSize=50&fontAlignY=38&descAlignY=51&descAlign=62" />
+</div>
 
+<h1 align="center">I'm Furkan Ertürk</h1>
 <p align="center">
-  <b>Kırklareli Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim ve yazılım geliştirme dünyasında yeni fikirleri koda dökmeyi seviyorum.</b>
+  <i>Transforming ideas into elegant, functional, and scalable applications.</i>
 </p>
+
+<div align="center">
+  <a href="mailto:[Your_Email]"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="[Your_LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://furkanerturk.me"><img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square&logo=google-chrome" /></a>
+</div>
+
+<br />
+
+### 🚀 A Little About Me
+
+I am a software developer with a passion for building seamless web and mobile experiences. Whether it's designing a new UI, structuring a database, or experimenting with AI tools, I love the process of creation.
+
+- 🔭 **Currently Building:** **SoulEcho** (Social Platform), **ValoMatch** (Matchmaking App), and **FilmolojiWeb** (Streaming Clone).
+- 🌱 **Currently Exploring:** AI-assisted development, Rapid Prototyping, and Vibe Coding.
+- 💡 **Philosophy:** Write clean code, keep learning, and build things that matter.
 
 ---
 
-### 👨‍💻 Benim Hakkımda
+### 💻 My Toolkit
 
-*   🔭 Şu sıralar **FilmolojiWeb** (Netflix klonu), **SoulEcho** (sosyal medya uygulaması) ve **ValoMatch** (Valorant oyuncuları için eşleştirme uygulaması) gibi çeşitli projeler üzerinde çalışıyorum.
-*   🌱 **Yapay zeka araçları** (Google Veo, DALL-E) ve doğal dil komutlarıyla hızlı prototipleme (vibe coding) konularına büyük ilgi duyuyorum.
-*   🎒 Daha önce Arnavutköy Belediyesi Bilişim Akademisi ve Memoria Bilişim'de staj süreçlerimi tamamladım.
-*   ⚡ **Eğlenceli Bilgi:** Kod yazmadığım zamanlarda Spotify'da Türkçe rap dinliyor, Valorant veya FC 26 oynuyor, ya da Minecraft (Fabric) sunucu modlarıyla uğraşıyorum!
-
----
-
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-
-**Diller & Framework'ler:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-**Veritabanı & Backend:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-**Geliştirme Araçları:**
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-</p>
-
----
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxwcxz&show_icons=true&theme=radical" alt="GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&theme=radical" alt="Top Languages" height="192px"/>
-</p>
-<!-- GITHUB_KULLANICI_ADIN yazan yerlere kendi GitHub kullanıcı adını yazmayı unutma! -->
-
----
-
-### 📬 Bana Ulaşın
-
-<p align="left">
-  <a href="mailto:[E-posta Adresin]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<div align="center">
+  <!-- Beautiful, unified animated icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,php,flutter,postgres,firebase,supabase,vscode,androidstudio&perline=9" />
   </a>
-  <a href="[LinkedIn Profil Linkin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://furkanerturk.me">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <!-- Sleek, dark-themed GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
