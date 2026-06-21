@@ -43,8 +43,8 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=radical" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sxwcxz&show_icons=true&theme=radical" alt="GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&theme=radical" alt="Top Languages" height="192px"/>
 </p>
 <!-- GITHUB_KULLANICI_ADIN yazan yerlere kendi GitHub kullanıcı adını yazmayı unutma! -->
 
