@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Minimalist ve şık başlık eklentisi -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=36BCF7&height=120&section=header&text=Furkan%20Ertürk&fontSize=55&fontAlignY=40&desc=Mobile%20&%20Full-Stack%20Developer&descAlignY=80&descSize=20" alt="Header" />
+  <!-- Minimalist ve Şık Başlık -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=36BCF7&height=120&section=header&text=Furkan&fontSize=70&fontAlignY=50" alt="Furkan" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+sxwcxz;Vibe+Coding+with+AI;Building+Glassmorphism+UIs;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Mobile+%26+Full-Stack+Developer;Vibe+Coding+with+AI;Building+Glassmorphism+UIs;Crafting+Digital+Experiences" alt="Typing SVG" />
 
   <br><br>
 
-  <p><i>Kusursuz UI/UX tasarımları (Glassmorphism & iOS estetiği) ve yapay zeka gücünü birleştirerek ölçeklenebilir, modern uygulamalar inşa ediyorum.</i></p>
+  <p><i>Kusursuz UI/UX tasarımları ve yapay zeka gücünü birleştirerek ölçeklenebilir, modern uygulamalar inşa ediyorum.</i></p>
 
   <br>
 
