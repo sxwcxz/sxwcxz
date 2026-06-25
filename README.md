@@ -1,9 +1,10 @@
 <div align="center">
 
-  <!-- Minimalist ve Şık Başlık -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=36BCF7&height=120&section=header&text=Furkan&fontSize=70&fontAlignY=50" alt="Furkan" />
+  <!-- Gece Mavisi Premium Dalgalı Başlık -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,002244,0052D4&height=180&section=header&text=Furkan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Furkan" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Mobile+%26+Full-Stack+Developer;Vibe+Coding+with+AI;Building+Glassmorphism+UIs;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <!-- Terminal Tarzı Yeni Nesil Animasyon -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Mobile+%26+Full-Stack+Developer;%3E_Skill:+Vibe+Coding+with+AI;%3E_Status:+Building+Modern+UIs" alt="Typing SVG" />
 
   <br><br>
 
