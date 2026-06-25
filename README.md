@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,002244,0052D4&height=180&section=header&text=Furkan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Furkan" />
 
   <!-- Terminal Tarzı Yeni Nesil Animasyon -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Mobile+%26+Full-Stack+Developer;%3E_Skill:+Vibe+Coding+with+AI;%3E_Status:+Building+Modern+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Mobile+%26+Developer;%3E_Skill:+Vibe+Coding+with+AI;%3E_Status:+Building+Modern+UIs" alt="Typing SVG" />
 
   <br><br>
 
