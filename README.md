@@ -76,9 +76,10 @@
   <h3>🚀 Popular Repositories</h3>
   
   <p align="center">
-    <a href="https://github.com/sxwcxz/filmolojiv2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=filmolojiv2&theme=radical&bg_color=0D1117&hide_border=true" alt="filmolojiv2" width="48%" />
-    </a>
+<!-- Cache'i kırmak için sonuna &v=1 ekledim -->
+<a href="https://github.com/sxwcxz/filmolojiv2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=filmolojiv2&theme=radical&bg_color=0D1117&hide_border=true&v=1" alt="filmolojiv2" width="48%" />
+</a>
     <a href="https://github.com/sxwcxz/paralari-katla">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=paralari-katla&theme=radical&bg_color=0D1117&hide_border=true" alt="paralari-katla" width="48%" />
     </a>
