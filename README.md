@@ -11,32 +11,6 @@
   <!-- Clean & Professional Bio -->
   <p><i>Building clean, scalable, and user-centric applications using modern technologies. Highly motivated by continuous learning and creating innovative digital solutions.</i></p>
 
-  <br>
-  
-  <!-- ⚡ YENİ: Hızlı Durum ve Odak Noktası -->
-  <table>
-    <tr>
-      <td valign="top">
-        <h3>⚡ Quick Status</h3>
-        <ul>
-          <li>🔭 <b>Currently working on:</b> AI-integrated scalable mobile architectures.</li>
-          <li>🌱 <b>Currently learning:</b> Advanced System Design & Swift UI.</li>
-          <li>💬 <b>Ask me about:</b> Flutter, Supabase, Vibe Coding and UI/UX.</li>
-          <li>⚡ <b>Fun fact:</b> I build faster when AI agents and coffee are involved.</li>
-        </ul>
-      </td>
-      <td valign="top" align="center">
-        <h3>🎧 Coding Vibe</h3>
-        <!-- Not: Spotify API bağlayana kadar statik ama çok şık bir görünüm sunar -->
-        <a href="https://open.spotify.com/user/9789bkwma0pzlci2iai9031c3">
-          <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=36BCF7" alt="Spotify Vibe" width="250" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
   <br><br>
 
   <h3>🛠️ Tech Stack & Arsenal</h3>
