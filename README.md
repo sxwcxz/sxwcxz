@@ -110,12 +110,6 @@
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
   </p>
-
-  <!-- 🐍 YENİ: Katkı Yılanı (Contribution Snake) -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/sxwcxz/sxwcxz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" onerror="this.style.display='none'" width="100%" />
-  </p>
-
   <br>
   
   <p>
@@ -127,23 +121,5 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="sxwcxz Top Languages" />
   </p>
-
-  <br>
-
-  <h3>📫 Let's Connect</h3>
-
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <br>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=sxwcxz&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
