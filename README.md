@@ -4,18 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,002244,0052D4&height=180&section=header&text=Furkan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Furkan" />
 
   <!-- Terminal Tarzı Yeni Nesil Animasyon -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Developer;%3E_Skill:+Vibe+Coding+with+AI;%3E_Status:+Building+Modern+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Junior+Developer;%3E_Skill:+Mobile+%26+Full-Stack;%3E_Status:+Building+Modern+UIs" alt="Typing SVG" />
 
   <br><br>
 
-  <p><i>Kusursuz UI/UX tasarımları ve yapay zeka gücünü birleştirerek ölçeklenebilir, modern uygulamalar inşa ediyorum.</i></p>
-
-  <br>
-
-  <h3>💻 Çalışma Ortamım & İş Akışım</h3>
-  <p>
-    Sıradan kodlamanın ötesinde, <b>AI ajanları</b> (Cursor, Windsurf) ve güçlü prompt mühendisliği kullanarak <i>Vibe Coding</i> yapıyorum. Bu sayede kompleks mimarileri çok daha hızlı ve hatasız inşa edebiliyorum.
-  </p>
+  <!-- Sade ve Şık Açıklama -->
+  <p><i>Modern teknolojilerle temiz, ölçeklenebilir ve kullanıcı deneyimi odaklı uygulamalar geliştiriyorum. Sürekli öğrenmeye ve yenilikçi çözümler üretmeye motiveyim.</i></p>
 
   <br>
 
@@ -49,41 +43,30 @@
 
   <br>
 
-  <h3>🚀 Öne Çıkan Mimari ve Projelerim</h3>
+  <h3>🚀 Öne Çıkan Projelerim</h3>
   
-  <table bordercolor="#30363d" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <b>🧠 SoulEcho</b><br/>
-        Yapay zeka destekli sosyal günlük ve rüya analiz platformu. AI tabanlı içerik üretimi.<br/>
-        <i>Flutter • Supabase • OpenAI API</i>
-      </td>
-      <td width="50%" valign="top">
-        <b>🎮 ValoMatch</b><br/>
-        Oyuncular için kaydırma (swipe) mekanikli takım arkadaşı bulma ve eşleşme uygulaması.<br/>
-        <i>Flutter • Supabase • UI/UX</i>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <b>🎵 SyncoMusic</b><br/>
-        iOS tasarım estetiğinde inşa edilmiş, akıcı animasyonlara sahip modern mobil müzik uygulaması.<br/>
-        <i>Flutter • Glassmorphism</i>
-      </td>
-      <td width="50%" valign="top">
-        <b>🎬 Filmoloji</b><br/>
-        Özel veritabanı altyapısıyla geliştirilmiş, yüksek performanslı web tabanlı yayın platformu klonu.<br/>
-        <i>HTML • CSS • JS • Firebase</i>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%" colspan="2" align="center" valign="top">
-        <b>🔌 IoT Cihaz Kontrol Simülatörü</b><br/>
-        Donanım bileşenleri ve sistem mimarisi için Java kullanılarak geliştirilmiş kontrol simülasyonu.<br/>
-        <i>Java</i>
-      </td>
-    </tr>
-  </table>
+  <!-- Dinamik GitHub Repoları (Tıklanabilir Kartlar) -->
+  <p align="center">
+    <a href="https://github.com/sxwcxz/SoulEcho">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=SoulEcho&theme=radical&bg_color=0D1117&hide_border=true" alt="SoulEcho" width="48%" />
+    </a>
+    <a href="https://github.com/sxwcxz/ValoMatch">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=ValoMatch&theme=radical&bg_color=0D1117&hide_border=true" alt="ValoMatch" width="48%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/sxwcxz/SyncoMusic">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=SyncoMusic&theme=radical&bg_color=0D1117&hide_border=true" alt="SyncoMusic" width="48%" />
+    </a>
+    <a href="https://github.com/sxwcxz/Filmoloji">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=Filmoloji&theme=radical&bg_color=0D1117&hide_border=true" alt="Filmoloji" width="48%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/sxwcxz/IoT-Simulator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=IoT-Simulator&theme=radical&bg_color=0D1117&hide_border=true" alt="IoT Simulator" width="48%" />
+    </a>
+  </p>
 
   <br>
 
@@ -113,9 +96,6 @@
     </a>
     <a href="mailto:senin.epostan@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://discord.com/users/SENIN_DISCORD_ID">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 
