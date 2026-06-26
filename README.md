@@ -12,6 +12,38 @@
   <p><i>Building clean, scalable, and user-centric applications using modern technologies. Highly motivated by continuous learning and creating innovative digital solutions.</i></p>
 
   <br>
+  
+  <!-- ⚡ YENİ: Hızlı Durum ve Odak Noktası -->
+  <table>
+    <tr>
+      <td valign="top">
+        <h3>⚡ Quick Status</h3>
+        <ul>
+          <li>🔭 <b>Currently working on:</b> AI-integrated scalable mobile architectures.</li>
+          <li>🌱 <b>Currently learning:</b> Advanced System Design & Swift UI.</li>
+          <li>💬 <b>Ask me about:</b> Flutter, Supabase, Vibe Coding and UI/UX.</li>
+          <li>⚡ <b>Fun fact:</b> I build faster when AI agents and coffee are involved.</li>
+        </ul>
+      </td>
+      <td valign="top" align="center">
+        <h3>🎧 Coding Vibe</h3>
+        <!-- Not: Spotify API bağlayana kadar statik ama çok şık bir görünüm sunar -->
+        <a href="https://open.spotify.com">
+          <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=36BCF7" alt="Spotify Vibe" width="250" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
+  <!-- 🏆 YENİ: Başarı Kupaları -->
+  <h3>🏆 GitHub Trophies</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sxwcxz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+
+  <br><br>
 
   <h3>🛠️ Tech Stack & Arsenal</h3>
 
@@ -45,8 +77,6 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   </p>
 
   <p><b>🤖 AI Agents & Vibe Coding</b></p>
@@ -60,8 +90,6 @@
     <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
     <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   </p>
 
   <p><b>🛠️ Tools, DevOps & Design</b></p>
@@ -71,21 +99,17 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
     <br>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   </p>
 
   <br>
 
   <h3>🚀 Popular Repositories</h3>
   
-  <!-- Dynamic GitHub Repo Pins -->
   <p align="center">
     <a href="https://github.com/sxwcxz/Muzo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=Muzo&theme=radical&bg_color=0D1117&hide_border=true" alt="Muzo" width="48%" />
@@ -118,7 +142,14 @@
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
   </p>
+
+  <!-- 🐍 YENİ: Katkı Yılanı (Contribution Snake) -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/sxwcxz/sxwcxz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" onerror="this.style.display='none'" width="100%" />
+  </p>
+
   <br>
+  
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sxwcxz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="sxwcxz Stats" />
   </p>
