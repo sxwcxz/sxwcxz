@@ -28,7 +28,7 @@
       <td valign="top" align="center">
         <h3>🎧 Coding Vibe</h3>
         <!-- Not: Spotify API bağlayana kadar statik ama çok şık bir görünüm sunar -->
-        <a href="https://open.spotify.com">
+        <a href="https://open.spotify.com/user/9789bkwma0pzlci2iai9031c3">
           <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=36BCF7" alt="Spotify Vibe" width="250" />
         </a>
       </td>
@@ -36,12 +36,6 @@
   </table>
 
   <br>
-  
-  <!-- 🏆 YENİ: Başarı Kupaları -->
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sxwcxz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
 
   <br><br>
 
