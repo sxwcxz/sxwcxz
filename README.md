@@ -76,8 +76,8 @@
   <h3>🚀 Popular Repositories</h3>
   
   <p align="center">
-    <a href="https://github.com/sxwcxz/Muzo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=Muzo&theme=radical&bg_color=0D1117&hide_border=true" alt="Muzo" width="48%" />
+    <a href="https://github.com/sxwcxz/filmolojiv2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=filmolojiv2&theme=radical&bg_color=0D1117&hide_border=true" alt="filmolojiv2" width="48%" />
     </a>
     <a href="https://github.com/sxwcxz/paralari-katla">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=paralari-katla&theme=radical&bg_color=0D1117&hide_border=true" alt="paralari-katla" width="48%" />
