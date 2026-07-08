@@ -109,15 +109,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
   </p>
   <br>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sxwcxz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="sxwcxz Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxwcxz&theme=radical&hide_border=true&background=0D1117" alt="sxwcxz Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="sxwcxz Top Languages" />
-  </p>
 
 </div>
