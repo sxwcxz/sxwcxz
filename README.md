@@ -5,7 +5,7 @@
     <tr>
       <td width="160" align="center" valign="middle" style="padding: 15px;">
         <!-- Profil Fotoğrafı (image_4736bd.png) -->
-        <img src="image_4736bd.png" width="140" style="border: 2px solid #5c7e10;" alt="Avatar" />
+        <img src="https://avatars.githubusercontent.com/u/138170751" width="140" style="border: 2px solid #5c7e10;" alt="Avatar" />
       </td>
       <td width="540" valign="top" style="padding: 15px;">
         <h1 style="margin: 0; color: #ffffff; font-family: sans-serif;">Furkan</h1>
