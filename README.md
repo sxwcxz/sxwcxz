@@ -72,10 +72,6 @@
 
   <h3>📈 Coding Activity & GitHub Stats</h3>
   <p>
-    <!-- Top Languages Card with Vintage Glow Theme -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&bg_color=000000&title_color=BCA27E&text_color=E5E5E5&icon_color=BCA27E&hide_border=true" alt="Top Languages" />
-  </p>
-  <p>
     <!-- Activity Graph with Vintage Glow Theme -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&bg_color=000000&color=BCA27E&line=BCA27E&point=E5E5E5&title_color=BCA27E&axes_color=7A7A7A&hide_border=true" alt="Activity Graph" width="100%" />
   </p>
