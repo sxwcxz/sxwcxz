@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Profil Fotoğrafı -->
-  <img src="https://avatars.githubusercontent.com/u/138170751" width="160" style="border-radius: 50%; margin-bottom: 20px;" alt="Furkan" />
-
   <br>
 
   <!-- Terminal Typing Animasyonu -->
