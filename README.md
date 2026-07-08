@@ -71,37 +71,6 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </p>
 
-  <br>
-
-  <h3>🚀 Popular Repositories</h3>
-  
-  <p align="center">
-<!-- Cache'i kırmak için sonuna &v=1 ekledim -->
-<a href="https://github.com/sxwcxz/filmolojiv2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=filmolojiv2&theme=radical&bg_color=0D1117&hide_border=true&v=1" alt="filmolojiv2" width="48%" />
-</a>
-    <a href="https://github.com/sxwcxz/paralari-katla">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=paralari-katla&theme=radical&bg_color=0D1117&hide_border=true" alt="paralari-katla" width="48%" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/sxwcxz/filmoloji">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=filmoloji&theme=radical&bg_color=0D1117&hide_border=true" alt="filmoloji" width="48%" />
-    </a>
-    <a href="https://github.com/sxwcxz/api">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=api&theme=radical&bg_color=0D1117&hide_border=true" alt="api" width="48%" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/sxwcxz/furkanerturk.me">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=furkanerturk.me&theme=radical&bg_color=0D1117&hide_border=true" alt="furkanerturk.me" width="48%" />
-    </a>
-    <a href="https://github.com/sxwcxz/sxwcxz.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxwcxz&repo=sxwcxz.github.io&theme=radical&bg_color=0D1117&hide_border=true" alt="sxwcxz.github.io" width="48%" />
-    </a>
-  </p>
-
-  <br>
 
   <h3>📈 Coding Activity & GitHub Stats</h3>
   
