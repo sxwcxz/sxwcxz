@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profil Fotoğrafı -->
-  <img src="image_4736bd.png" width="160" style="border-radius: 50%; margin-bottom: 20px;" alt="Furkan" />
+  <img src="https://avatars.githubusercontent.com/u/138170751" width="160" style="border-radius: 50%; margin-bottom: 20px;" alt="Furkan" />
 
   <br>
 
@@ -37,9 +37,6 @@
   <br>
 
   <h3>📈 Activity & Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&bg_color=000000&title_color=B088F9&text_color=FFFFFF&icon_color=B088F9&hide_border=true" alt="Top Languages" />
-  </p>
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&bg_color=000000&color=B088F9&line=B088F9&point=FFFFFF&title_color=B088F9&axes_color=B088F9&hide_border=true" alt="Activity Graph" width="85%" />
   </p>
