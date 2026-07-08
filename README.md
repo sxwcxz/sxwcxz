@@ -5,18 +5,6 @@
   <!-- Terminal Typing Animasyonu -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B088F9&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Computer+Programming+Student;%3E_Location:+Istanbul" alt="Typing SVG" />
 
-  <p><i>Building clean, scalable, and user-centric applications with iOS-style aesthetics.</i></p>
-
-  <br>
-
-  <h3>🚀 Featured Projects</h3>
-  <p>
-    <b>SoulEcho</b> (AI-Supported Social Diary) • <b>SyncoMusic</b> (Mobile) <br>
-    <b>Filmoloji</b> (Web Streaming Platform) • <b>ValoMatch</b>
-  </p>
-
-  <br>
-
   <h3>⚡ Tech Stack & AI Arsenal</h3>
   <p>
     <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=B088F9" alt="Flutter" />
