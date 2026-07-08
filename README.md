@@ -68,4 +68,14 @@
     <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=B088F9" alt="Postman" />
   </p>
 
+  <br>
+
+  <h3>📈 Coding Activity & GitHub Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&bg_color=000000&title_color=B088F9&text_color=FFFFFF&icon_color=B088F9&hide_border=true" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&bg_color=000000&color=B088F9&line=B088F9&point=FFFFFF&title_color=B088F9&axes_color=B088F9&hide_border=true" alt="Activity Graph" width="100%" />
+  </p>
+
 </div>
