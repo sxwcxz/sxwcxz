@@ -1,76 +1,47 @@
 <div align="center">
 
-  <!-- macOS Window Frame & Bento Box Layout -->
-  <table width="900" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; border-collapse: separate;">
-    
-    <!-- Window Header -->
-    <tr>
-      <td colspan="2" style="padding: 12px 15px; background-color: #161b22; border-bottom: 1px solid #30363d; border-top-left-radius: 12px; border-top-right-radius: 12px;">
-        <div align="left">
-          &nbsp;🔴 🟡 🟢 &nbsp;&nbsp;<b style="color: #8b949e; font-family: monospace; font-size: 14px;">~/Developer/Furkan/portfolio.md</b>
-        </div>
-      </td>
-    </tr>
+  <!-- Profil Fotoğrafı -->
+  <img src="image_4736bd.png" width="160" style="border-radius: 50%; margin-bottom: 20px;" alt="Furkan" />
 
-    <!-- ROW 1 -->
-    <tr>
-      <!-- BENTO BOX 1: PROFILE INFO -->
-      <td width="45%" valign="top" style="padding: 40px; border-right: 1px solid #30363d;">
-        <img src="image_4736bd.png" width="130" style="border-radius: 50%; border: 3px solid #30363d; padding: 3px;" alt="Profile" />
-        <br><br>
-        <h2 style="margin: 0; color: #c9d1d9; font-family: sans-serif;">Furkan</h2>
-        <p style="color: #8b949e; font-size: 14px; margin-top: 5px;">📍 Istanbul | Computer Programming</p>
-        <p style="color: #c9d1d9; font-style: italic; line-height: 1.6; margin-top: 15px;">
-          Building clean, scalable, and user-centric applications. Highly motivated by continuous learning and pushing digital boundaries.
-        </p>
-      </td>
+  <br>
 
-      <!-- BENTO BOX 2: TECH ARSENAL (Minimal Badges) -->
-      <td width="55%" valign="top" style="padding: 40px;">
-        <h3 style="color: #c9d1d9; border-bottom: 1px dashed #30363d; padding-bottom: 10px; margin-top: 0;">⚡ Tech Arsenal</h3>
-        <p style="margin-top: 20px;">
-          <img src="https://img.shields.io/badge/Flutter-232329?style=for-the-badge&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Dart-232329?style=for-the-badge&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-232329?style=for-the-badge&logo=react&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-232329?style=for-the-badge&logo=python&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/C%23-232329?style=for-the-badge&logo=csharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-232329?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/PHP-232329?style=for-the-badge&logo=php&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/Supabase-232329?style=for-the-badge&logo=supabase&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-232329?style=for-the-badge&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/Figma-232329?style=for-the-badge&logo=figma&logoColor=white" />
-        </p>
-      </td>
-    </tr>
+  <!-- Terminal Typing Animasyonu -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B088F9&center=true&vCenter=true&width=600&lines=%3E_System.Login(+%22Furkan%22+);%3E_Role:+Computer+Programming+Student;%3E_Location:+Istanbul" alt="Typing SVG" />
 
-    <!-- ROW 2 -->
-    <tr>
-      <!-- BENTO BOX 3: PROJECTS -->
-      <td valign="top" style="padding: 40px; border-right: 1px solid #30363d; border-top: 1px solid #30363d;">
-         <h3 style="color: #c9d1d9; border-bottom: 1px dashed #30363d; padding-bottom: 10px; margin-top: 0;">🚀 Featured Projects</h3>
-         <ul style="color: #8b949e; line-height: 2.2; text-align: left; margin-top: 15px;">
-            <li><b style="color: #c9d1d9;">SoulEcho</b> - AI Social Diary</li>
-            <li><b style="color: #c9d1d9;">SyncoMusic</b> - Music Streaming App</li>
-            <li><b style="color: #c9d1d9;">Filmoloji</b> - Web Streaming Platform</li>
-            <li><b style="color: #c9d1d9;">ValoMatch</b> - Gaming Teammate Finder</li>
-         </ul>
-      </td>
+  <p><i>Building clean, scalable, and user-centric applications with iOS-style aesthetics.</i></p>
 
-      <!-- BENTO BOX 4: GITHUB STATS -->
-      <td valign="middle" style="padding: 40px; border-top: 1px solid #30363d;" align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&hide_border=true" width="90%" alt="Top Languages" />
-      </td>
-    </tr>
+  <br>
 
-    <!-- ROW 3 -->
-    <tr>
-      <!-- BENTO BOX 5: ACTIVITY GRAPH -->
-      <td colspan="2" style="padding: 30px; border-top: 1px solid #30363d;" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&bg_color=0d1117&color=c9d1d9&line=30363d&point=c9d1d9&title_color=c9d1d9&axes_color=8b949e&hide_border=true" alt="Activity Graph" width="95%" />
-      </td>
-    </tr>
+  <h3>🚀 Featured Projects</h3>
+  <p>
+    <b>SoulEcho</b> (AI-Supported Social Diary) • <b>SyncoMusic</b> (Mobile) <br>
+    <b>Filmoloji</b> (Web Streaming Platform) • <b>ValoMatch</b>
+  </p>
 
-  </table>
+  <br>
+
+  <h3>⚡ Tech Stack & AI Arsenal</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=B088F9" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=B088F9" alt="Dart" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B088F9" alt="Python" />
+    <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=B088F9" alt="C#" />
+    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=B088F9" alt="PHP" />
+    <br>
+    <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=B088F9" alt="Supabase" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=B088F9" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=B088F9" alt="Cursor" />
+    <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=B088F9" alt="Windsurf" />
+  </p>
+
+  <br>
+
+  <h3>📈 Activity & Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxwcxz&layout=compact&bg_color=000000&title_color=B088F9&text_color=FFFFFF&icon_color=B088F9&hide_border=true" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxwcxz&bg_color=000000&color=B088F9&line=B088F9&point=FFFFFF&title_color=B088F9&axes_color=B088F9&hide_border=true" alt="Activity Graph" width="85%" />
+  </p>
+
 </div>
